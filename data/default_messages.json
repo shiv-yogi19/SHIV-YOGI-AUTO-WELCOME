@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Cosmic Gateway",
+    "category": "general",
+    "enabled": true,
+    "order": 1,
+    "text": "╔═══════════════════════════════╗\n  ✦ SHIV YOGI AUTO ASSISTANT ✦  \n╚═══════════════════════════════╝\n◈ Greetings {name}! ◈\n\nI am the automated personal assistant for Shiv Yogi. Your message has safely reached the inbox.\n\n⚡ Status: Away from keyboard\n⏳ Expected Response: Soon as available\n\nThank you for reaching out with patience!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 2,
+    "title": "Minimalist Cyber",
+    "category": "general",
+    "enabled": true,
+    "order": 2,
+    "text": "╭━━━〔 SHIV YOGI • AWAY NOTICE 〕━━━╮\n\nHello {name} ❖\n\nShiv Yogi is currently engaged and away from direct messaging.\nYour inquiry has been logged and prioritized.\n\n┌─ [STATUS DETAILS]\n├ Status: Away / Focused Work\n├ Logged: Active\n└ Follow-up: As soon as online\n\nHave a wonderful day ahead!\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯\n⚡ Created By Shiv Yogi ⚡"
+  },
+  {
+    "id": 3,
+    "title": "Zen Focus",
+    "category": "busy",
+    "enabled": true,
+    "order": 3,
+    "text": "◈━━━━━ ❖ DEEP FOCUS MODE ❖ ━━━━━◈\n\nNamaste {name} 🙏\n\nShiv Yogi is immersed in focused engineering work right now.\n\n✦ Messages are received and queued.\n✦ Priority notifications remain active.\n✦ You will receive a direct reply soon.\n\nThank you for your understanding and peace.\n◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 4,
+    "title": "Digital Terminal",
+    "category": "inactivity",
+    "enabled": true,
+    "order": 4,
+    "text": "┌────────────────────────────────┐\n│ >> SHIV YOGI AUTOMATED DISPATCH\n└────────────────────────────────┘\n[SYSTEM]: Message acknowledged from @{username}.\n\nShiv Yogi has not responded within the past {timer_mins} minutes and may be offline, in a session, or traveling.\n\n◈ Direct ping queued\n◈ Will respond once back at terminal\n\nThanks for connecting!\n──────────────────────────────────\n[Created By Shiv Yogi]"
+  },
+  {
+    "id": 5,
+    "title": "Golden Horizon",
+    "category": "general",
+    "enabled": true,
+    "order": 5,
+    "text": "★・・・・・・★・・・・・・★\n  ⚡ SHIV YOGI AUTO WELCOME ⚡\n★・・・・・・★・・・・・・★\n\nHello {name}!\n\nThank you for getting in touch. Shiv Yogi is currently stepping away from screen time.\n\nIf this is urgent, please leave any key details or context in this chat so Shiv Yogi can review it right away upon return.\n\nWishing you great energy and productivity!\n─────────────────────────────\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 6,
+    "title": "Engineering Desk",
+    "category": "busy",
+    "enabled": true,
+    "order": 6,
+    "text": "╔═━─━─━─━─━─━─━─━─━─━─━─━═╗\n║  ⚙️ SHIV YOGI WORKSPACE ⚙️  ║\n╚═━─━─━─━─━─━─━─━─━─━─━─━═╝\nHi {name}!\n\nShiv Yogi is currently in the middle of active development and deployment tasks.\n\n◈ Inbox: Received\n◈ Notification: Triggered\n◈ Reply Window: As soon as current task completes\n\nFeel free to write your full question or request here.\n───────────────────────────\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 7,
+    "title": "Starlight Greeting",
+    "category": "general",
+    "enabled": true,
+    "order": 7,
+    "text": "✦ ━━━━━━━━━━━━━━━━━━━━━━━ ✦\n   SHIV YOGI ASSISTANT BOT  \n✦ ━━━━━━━━━━━━━━━━━━━━━━━ ✦\n\nHey {name}! 🌟\n\nThanks for dropping a message. Shiv Yogi is temporarily unreachable at the moment.\n\nDon't worry—your text is safe in the conversation thread. A personalized reply is on its way as soon as Shiv Yogi is back online.\n\nTake care and have an inspiring day!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 8,
+    "title": "Quantum Shield",
+    "category": "inactivity",
+    "enabled": true,
+    "order": 8,
+    "text": "╭─────────────────────────────╮\n│  ◈ INACTIVITY AUTO-ALERT ◈   │\n╰─────────────────────────────╯\nGreetings {name},\n\nShiv Yogi has been away from Telegram for over {timer_mins} minutes.\n\nThis automatic welcome bot has logged your conversation. Shiv Yogi values your time and will check back shortly.\n\nStay awesome!\n─────────────────────────────\n⚡ Created By Shiv Yogi ⚡"
+  },
+  {
+    "id": 9,
+    "title": "Modern Clean",
+    "category": "general",
+    "enabled": true,
+    "order": 9,
+    "text": "◈ ————————————————————— ◈\n  SHIV YOGI • INSTANT NOTICE\n◈ ————————————————————— ◈\n\nHello {name},\n\nThank you for reaching out! Shiv Yogi is currently offline or away from the phone.\n\nFeel free to outline your inquiry or topic in detail so we can dive straight in when back.\n\nWarm regards,\nShiv Yogi\n—————————————————————————\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 10,
+    "title": "Meeting Alert",
+    "category": "busy",
+    "enabled": true,
+    "order": 10,
+    "text": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃  📅 IN A MEETING / SESSION   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\nHi {name},\n\nShiv Yogi may be in a client meeting, conference call, or technical consultation right now.\n\n◈ Message Status: Unread (Pending)\n◈ Estimated Delay: Normal meeting slot\n\nYour message is appreciated and will be attended to promptly afterwards!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 11,
+    "title": "Twilight Rest",
+    "category": "away",
+    "enabled": true,
+    "order": 11,
+    "text": "☾ ⋆*･ﾟ:⋆*･ﾟ:⠀ *⋆.*:･ﾟ .: ⋆*･ﾟ: .⋆\n   SHIV YOGI • NIGHT / QUIET DESK\n☾ ⋆*･ﾟ:⋆*･ﾟ:⠀ *⋆.*:･ﾟ .: ⋆*･ﾟ: .⋆\n\nHello {name} 🌙\n\nShiv Yogi is currently taking rest or outside regular active hours.\n\nYour message is safely recorded. Shiv Yogi will get back to you first thing upon waking up or returning to desk.\n\nWishing you peaceful hours ahead!\n───────────────────────────────\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 12,
+    "title": "Vibrant Spark",
+    "category": "general",
+    "enabled": true,
+    "order": 12,
+    "text": "⚡ ═══════════════════════════ ⚡\n     SHIV YOGI AUTO WELCOME\n⚡ ═══════════════════════════ ⚡\n\nHello {name}!\n\nGlad to see you here. Shiv Yogi is momentarily occupied with other responsibilities.\n\nDrop any questions, links, or files here—they won't be missed. Shiv Yogi will review them shortly.\n\nCheers and speak soon!\n═══════════════════════════════\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 13,
+    "title": "Executive Brief",
+    "category": "general",
+    "enabled": true,
+    "order": 13,
+    "text": "╔═════════════════════════════╗\n║    SHIV YOGI • DISPATCH     ║\n╚═════════════════════════════╝\nDear {name},\n\nThank you for reaching out to Shiv Yogi's direct account.\n\nAt present, Shiv Yogi is away from active messaging. All chats are queued systematically to ensure thoughtful responses.\n\nThank you for your kind patience and collaboration.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 14,
+    "title": "Tech Lab Alert",
+    "category": "busy",
+    "enabled": true,
+    "order": 14,
+    "text": "┌───[ ❖ SHIV YOGI TECH LAB ❖ ]───┐\n\nHey {name}!\n\nShiv Yogi is currently debugging, testing, or building code in the lab.\n\nTo help speed things up when Shiv Yogi sees this, please feel free to leave:\n1. Your question or topic\n2. Any relevant links or reference docs\n\nCatch you soon!\n└───[ Created By Shiv Yogi ]───┘"
+  },
+  {
+    "id": 15,
+    "title": "Nordic Minimal",
+    "category": "general",
+    "enabled": true,
+    "order": 15,
+    "text": "· · ─────── · 𖥸 · ─────── · ·\n     SHIV YOGI ASSISTANT\n· · ─────── · 𖥸 · ─────── · ·\n\nHello {name},\n\nShiv Yogi is currently away from the keyboard and will be back shortly.\n\nThank you for your message and your patience!\n\nBest regards,\nShiv Yogi\n· · ─────── · 𖥸 · ─────── · ·\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 16,
+    "title": "Road Warrior",
+    "category": "away",
+    "enabled": true,
+    "order": 16,
+    "text": "🚘 ━━━━━━━━━━━━━━━━━━━━━━━━━ 🚘\n   SHIV YOGI • ON THE MOVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nHi {name}!\n\nShiv Yogi might be in transit, driving, or away from a stable workstation right now.\n\nSafety and focus first! Once at a safe stopping point, Shiv Yogi will review and reply to your chat.\n\nThanks for understanding!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 17,
+    "title": "Priority Support",
+    "category": "support",
+    "enabled": true,
+    "order": 17,
+    "text": "◈═════════════════════════════◈\n   SHIV YOGI • BOT DESK\n◈═════════════════════════════◈\n\nGreetings {name}!\n\nYour message to Shiv Yogi has been logged into the queue.\n\nIf you are inquiring about a project, collaboration, or technical support, please drop the details below for a faster turnaround.\n\nHave a productive day!\n─────────────────────────────\n⚡ Created By Shiv Yogi ⚡"
+  },
+  {
+    "id": 18,
+    "title": "Nexus Protocol",
+    "category": "inactivity",
+    "enabled": true,
+    "order": 18,
+    "text": "⟨⟨ NEXUS AUTO-DISPATCH // SHIV YOGI ⟩⟩\n\nNotice for: {name}\n\nShiv Yogi's account detected no direct user activity for {timer_mins} minutes following your ping.\n\nThis automatic dispatch confirms your message is safe and awaiting review.\n\nThank you for reaching out!\n══════════════════════════════\n✧ Created By Shiv Yogi ✧"
+  },
+  {
+    "id": 19,
+    "title": "Harmonic Flow",
+    "category": "general",
+    "enabled": true,
+    "order": 19,
+    "text": "✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦\n   SHIV YOGI AUTO WELCOME\n✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦\n\nHello {name}!\n\nShiv Yogi is currently taking a short break from screens to recharge.\n\nEvery message is appreciated. Shiv Yogi will get back to you with full focus very soon.\n\nWishing you peace and good vibes!\n─────────────────────────\n✦ Created By Shiv Yogi ✦"
+  },
+  {
+    "id": 20,
+    "title": "Signature Farewell",
+    "category": "general",
+    "enabled": true,
+    "order": 20,
+    "text": "╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮\n│   ❖ SHIV YOGI AUTO BOT ❖    │\n╰─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╯\n\nHello {name}!\n\nThank you for connecting with Shiv Yogi. Currently away from Telegram.\n\nYour chat is at the top of the queue and will be handled shortly.\n\nWarm regards,\nShiv Yogi\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✧ Created By Shiv Yogi ✧"
+  }
+]

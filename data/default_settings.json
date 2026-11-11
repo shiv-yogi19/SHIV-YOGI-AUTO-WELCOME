@@ -1,0 +1,26 @@
+{
+  "auto_welcome_enabled": true,
+  "inactivity_timer_minutes": 4,
+  "user_cooldown_minutes": 1440,
+  "global_daily_limit": 100,
+  "quiet_hours_enabled": false,
+  "quiet_hours_start": "22:00",
+  "quiet_hours_end": "07:00",
+  "quiet_hours_timezone": "UTC",
+  "random_selection_mode": "no_repeat",
+  "no_repeat_depth": 5,
+  "ignored_user_ids": [],
+  "max_messages_per_recipient": 5,
+  "auto_delete_enabled": false,
+  "auto_delete_minutes": 60,
+  "emergency_paused": false,
+  "owner_name": "Shiv Yogi",
+  "active_categories": [
+    "general",
+    "away",
+    "busy",
+    "inactivity",
+    "support"
+  ],
+  "version": "1.0.0"
+}
