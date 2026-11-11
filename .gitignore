@@ -1,0 +1,40 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Telegram MTProto Session Files
+*.session
+*.session-journal
+companion/session/
+companion/*.session
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Cloudflare Wrangler
+.wrangler/
+dist/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives & Temporary Test Artifacts
+*.zip
+*.tar.gz
+*.log
+scratch/
+tmp/

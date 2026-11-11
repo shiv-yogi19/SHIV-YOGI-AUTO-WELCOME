@@ -1,0 +1,22 @@
+{
+  "name": "shiv-yogi-auto-welcome",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Telegram Auto Welcome Bot system created by Shiv Yogi with Cloudflare Workers, KV, D1, Durable Objects, and MTProto Companion.",
+  "main": "worker/src/index.js",
+  "scripts": {
+    "test": "node --test tests/*.js",
+    "check": "node --check worker/src/*.js",
+    "setup": "node scripts/setup_wizard.js"
+  },
+  "keywords": [
+    "telegram",
+    "cloudflare-workers",
+    "mtproto",
+    "telethon",
+    "auto-welcome",
+    "shiv-yogi"
+  ],
+  "author": "Shiv Yogi",
+  "license": "MIT"
+}
